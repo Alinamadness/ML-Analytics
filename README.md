@@ -1,4 +1,4 @@
-# ML and Analysis tasks
+# ML and Analytics tasks
 
 :bar_chart:
 Собраны некоторые из проектов по аналитике и машинному обучению. 
